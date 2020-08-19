@@ -1,0 +1,17 @@
+{
+    "name": "bruno/sitephp",
+    "description": "Site PHP",
+    "type": "project",
+    "license": "gpl",
+    "authors": [
+        {
+            "name": "Bruno Gressler da Silveira",
+            "email": "brunogressler1@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "twbs/bootstrap": "^5.0@alpha",
+        "components/jquery": "dev-master"
+    }
+}
